@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/k0gFYy-y)
+
+# Atividade 2 - Minicurso Dacomp 2026
+
+## Descrição 
+Este é um projeto prático desenvolvido para a atividade 2.2 de Git e GitHub.
+
+## Como Instalar
+Baixe a pasta ou clone o repositório: link do repositorio(https://github.com/DacompMiniCursos/aula-2-github-e-colabora-o-mileenacm.git)
+
+## Autoria: 
+GitHub: mileenacm
